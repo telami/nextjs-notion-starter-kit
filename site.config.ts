@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'f7c0e5158c49462e989164e8687c3509',
+  rootNotionPageId: 'ec71d80edac44a3c9ec8099ddefd59f2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Telamifly Studio',
 
   // social usernames (optional)
-  twitter: 'dapideng',
-  github: 'telami',
+  // twitter: 'dapideng',
+  // github: 'telami',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
